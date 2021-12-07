@@ -2,13 +2,15 @@
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
-```change directory 
+```
+change directory 
 
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
-```make new directory
+```
+make new directory
 
 ```
 
@@ -20,7 +22,8 @@ the tag represents the root of the document,  it is a tag container for everythi
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
-```hypter text mnarkup language 
+```
+hypter text mnarkup language 
 
 ```
 
